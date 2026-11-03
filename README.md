@@ -7,13 +7,13 @@ Desenvolvo aplicações web completas, da análise de requisitos ao deploy, com 
 
 ---
 
-## 🚀 O que estou fazendo
+## O que estou fazendo
 
-- 💼 Freelancer FullStack no site institucional e CRM da **Rotsen Fortes** (React, Next.js, Tailwind e Supabase, com integração de IA)
-- 🎓 Cursando Ciência da Computação na UFC (previsão: ago/2027)
-- 📚 Aprofundando meus conhecimentos em C# / .NET e no ecossistema React/Next.js
+- Freelancer FullStack no site institucional e CRM da **Rotsen Fortes** (React, Next.js, Tailwind e Supabase, com integração de IA)
+- Cursando Ciência da Computação na UFC (previsão: ago/2027)
+- Aprofundando meus conhecimentos em C# / .NET e no ecossistema React/Next.js
 
-## 🛠️ Tecnologias
+## Tecnologias, linguagens, bibliotecas...
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,7 +28,7 @@ Desenvolvo aplicações web completas, da análise de requisitos ao deploy, com 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📂 Projetos em destaque
+## Projetos que mais valorizo
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -36,12 +36,12 @@ Desenvolvo aplicações web completas, da análise de requisitos ao deploy, com 
 | **ClassSpace** | Gerenciamento de turmas: comunicação, atividades, frequência e desempenho | React, Tailwind, Express, Prisma |
 | **Univox** | Fórum universitário (desenvolvimento do frontend em equipe) | React, Tailwind, Python |
 
-## 💼 Experiência
+## Experiências como profissional
 
 - **Desenvolvedor FullStack (Freelancer)**, Rotsen Fortes (2026 – atual)
 - **Desenvolvedor Frontend e Backend (Bolsista)**, LSBD / UFC (dez/2024 – out/2025)
 
-## 📫 Contato
+## Informações para contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-felipe-b269ab297)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfelipesousacordeiro@gmail.com)
