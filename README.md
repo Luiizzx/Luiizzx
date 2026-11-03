@@ -44,8 +44,3 @@ Desenvolvo aplicações web com foco em UI de qualidade e boa experiência de us
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-felipe-b269ab297)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfelipesousacordeiro@gmail.com)
-
----
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luiizzx&show_icons=true&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiizzx&layout=compact&hide_border=true)
