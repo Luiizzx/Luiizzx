@@ -1,18 +1,17 @@
 # Olá, eu sou Luiz Felipe.
 
-**Desenvolvedor FullStack Jr** | Estudante de Ciência da Computação na **UFC**
+**Desenvolvedor FullStack** | Estudante de Ciência da Computação na **UFC**
 📍 Fortaleza - CE, Brasil
 
-Desenvolvo aplicações web completas, da análise de requisitos ao deploy, com foco em código limpo, manutenível e uma boa experiência para o usuário.
+Desenvolvo aplicações web com foco em UI de qualidade e boa experiência de usuário.
 
 ---
 
-## O que estou fazendo
+## Atualmente...
 
-- Freelancer FullStack no site institucional e CRM da **Rotsen Fortes** (React, Next.js, Tailwind e Supabase, com integração de IA)
 - Cursando Ciência da Computação na UFC (previsão: ago/2027)
-- Aprofundando meus conhecimentos em C# / .NET e no ecossistema React/Next.js
-
+- Trabalhando em projetos de Desenvolvimento Web como Freelancer
+  
 ## Tecnologias, linguagens, bibliotecas...
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
