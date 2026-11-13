@@ -9,7 +9,7 @@ Desenvolvo aplicações web com foco em UI de qualidade e boa experiência de us
 
 ## Atualmente...
 
-- Cursando Ciência da Computação na UFC (previsão: ago/2027)
+- Cursando Ciência da Computação na UFC, com previsão de formação para Dezembro de 2027
 - Trabalhando em projetos de Desenvolvimento Web como Freelancer
   
 ## Tecnologias, linguagens, bibliotecas...
