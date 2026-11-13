@@ -1,4 +1,4 @@
-# Olá, eu sou Luiz Felipe.
+# Sou Luiz Felipe.
 
 **Desenvolvedor FullStack** | Estudante de Ciência da Computação na **UFC**
 📍 Fortaleza - CE, Brasil
