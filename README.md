@@ -1,7 +1,6 @@
 # Sou Luiz Felipe.
 
 **Desenvolvedor FullStack** | Estudante de Ciência da Computação na **UFC**
-📍 Fortaleza - CE, Brasil
 
 Desenvolvo aplicações web com foco em UI de qualidade e boa experiência de usuário.
 
